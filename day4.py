@@ -29,7 +29,7 @@ print(my_dict)
 
 
 
-# Sets 
+# Sets (imutable)
 
 num = {2,3,1,2,}
 print(num)      #only unique values come in a set
