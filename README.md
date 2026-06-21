@@ -7,3 +7,4 @@
 - Day3.py - Lists & Tuples (append, sort, slice, insert, remove, copy, index, count)
 - Day4.py - Dictionary and sets (nesting, keys/values/items, update,add/remove/pop, union, intersection)
 - Day5.py - loops with while, break, continue, for‑else, range, and pass.
+- Day6.py - Functions (parameters, default values, built-in functions)
