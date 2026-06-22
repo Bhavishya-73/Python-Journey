@@ -8,3 +8,4 @@
 - Day4.py - Dictionary and sets (nesting, keys/values/items, update,add/remove/pop, union, intersection)
 - Day5.py - loops with while, break, continue, for‑else, range, and pass.
 - Day6.py - Functions (parameters, default values, built-in functions)
+- Day7.py - Practised all topics learned in week 1
